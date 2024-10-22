@@ -25,6 +25,7 @@ The course materials are organized into **three directories**:
   |____ / notes
   |_____ / extras
 ```
+>❗**Note**: The content in the /notes and /extras directories is not ready yet, but it will be available soon!
 
 #### 📚 `/main`: Core Tutorials
 This is where the magic happens—**six main tutorials** in **Jupyter Notebooks** form the backbone of this course. Each tutorial is a hands-on lab designed to teach essential skills in a **fun**, **interactive**, and **engaging** way. 🤓
