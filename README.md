@@ -50,7 +50,7 @@ Here’s a sneak peek at the tutorials:
 
 5. **Introduction to Image Segmentation**  
    - *File*: `CV_lab_05_image_segmentation.ipynb`  
-   - *Overview*: ✂️ Explore **image segmentation** techniques like `U-Net`, `SegNet`, `DeepLabv3`, and `Mask R-CNN`, each tailored to different real-world use cases like **medical imaging** and **autonomous driving**.
+   - *Overview*: ✂️ Explore **image segmentation** techniques like `U-Net`, `SegNet`, `DeepLabv3`, and `Mask R-CNN` and also use `U-Net` for Human Segmentation.
 
 6. **Vision Transformers**  
    - *File*: `CV_lab_06_vision_transformers.ipynb`  
